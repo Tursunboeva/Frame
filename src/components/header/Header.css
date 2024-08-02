@@ -1,0 +1,30 @@
+.header_wrapper{
+padding: 17px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+font-family: var(--outfit);
+}
+ul{
+    display: flex;
+    gap: 30px;
+    text-indent: 2px;
+}
+.ul{
+    gap: 16px;
+    display: flex;
+    align-items: center;
+}
+.header_btn{
+   display: flex;
+   align-items: center;
+   color: aliceblue;
+   background-color: #F54749;
+   padding: 18px 28px;
+   border-radius: 20px;
+   gap: 10px;
+   
+}
+a{
+    color: #241415;
+}

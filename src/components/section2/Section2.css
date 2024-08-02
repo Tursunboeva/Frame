@@ -1,0 +1,27 @@
+#test{
+    background-color: #fef0f0;
+    
+}
+h3{
+    font-size: 40px;
+    max-width: 560px;
+    
+}
+.box{
+    max-width: 360px;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 30px;
+}
+p{
+    line-height: 28px;
+    margin-top: 26px;
+}
+
+.test_cards{
+    display: flex;
+    gap: 30px;
+}
+.test_wrapper{
+    padding: 50px 0;
+}
